@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.replace" />
+          <option value="pygame.display.set_mode" />
+          <option value="pygame.display.set_caption" />
+          <option value="pygame.sprite.Group" />
+          <option value="pygame.event.get" />
+          <option value="pygame.display.flip" />
+          <option value="pygame.image.load" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
