@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 def calculator(n):
     table = [float("inf")] * (n + 1)
     table[1] = 0
@@ -29,4 +27,4 @@ def calculator(n):
 print(calculator(int(input())))
 
 # Не работает
->>>>>>> e7f92ea (first commit)
+
